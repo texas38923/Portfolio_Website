@@ -1,7 +1,7 @@
 # Portfolio_Website
 Developed this portfolio website using html, sass (a css pre-complier technology), and vanilla javascript as a demo project for myself to test my skills.
 
-It is a multi-web-pages and responsive website with a lot of seamless animations and transitions incorporated here and there
+It is a multi-web-paged and responsive website with a lot of seamless animations and transitions incorporated here and there
 
 Incorporated the functionality of light and dark modes for the entire website:
 ![image](https://github.com/texas38923/Portfolio_Website/assets/67150797/708d1acd-7dc1-4edf-aa01-29e2a5b32459)
